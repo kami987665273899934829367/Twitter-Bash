@@ -1,0 +1,11 @@
+footer {
+    min-height: 5vh;
+    color: white;
+    background: linear-gradient(90deg, rgba(4, 20, 27, 0.96) 25.9%, #5FAAD3 50%);
+    background-blend-mode: darken;
+}
+
+footer p {
+    text-align: center;
+    margin: 0;
+}

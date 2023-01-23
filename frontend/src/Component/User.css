@@ -1,0 +1,28 @@
+.user-container {
+    padding: 1rem;
+}
+
+.user-tweet-search-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding: 0.5rem;
+    border: 1px solid black;
+    border-radius: 2rem;
+    background-color: rgba(217, 217, 217, 1);
+}
+
+.user-tweet-search-container input {
+    all: unset;
+    text-indent: 1rem;
+}
+
+.user-tweet-search-container button {
+    background: linear-gradient(90deg, rgba(4, 20, 27, 0.9216) 39.33%, rgba(99, 193, 233, 0.96) 62.35%);
+    color: white;
+    font-size: 1rem;
+    border: none;
+    border-radius: 2rem;
+    padding: 0.3rem 1rem;
+}

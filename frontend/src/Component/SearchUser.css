@@ -1,0 +1,39 @@
+.search-user-container {
+    padding: 1rem;
+}
+
+.search-user-search {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem ;
+    border-radius: 2rem;
+    background-color: rgba(217, 217, 217, 1);
+}
+
+.search-user-search img {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.search-user-search input {
+    all: unset;
+}
+
+.search-user-list {
+    text-indent: 0.5rem;
+    margin-top: 1rem;
+    padding: 0.5rem 0;
+    border: solid 1px black;
+    min-height: 70%;
+}
+
+.search-user-list p {
+    margin: 0;
+    margin-top: 0.5rem;
+    padding: 0.2rem 0;
+}
+
+.search-user-list p:hover {
+    background-color: grey;
+}
